@@ -10,7 +10,8 @@ namespace MoraxTestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello Boris!");
+            Console.WriteLine("Bye Vlad");
             Console.ReadLine();
         }
     }
