@@ -1,0 +1,8 @@
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\bin\Debug\MoraxTestConsoleApp.exe.config
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\bin\Debug\MoraxTestConsoleApp.exe
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\bin\Debug\MoraxTestConsoleApp.pdb
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\obj\Debug\MoraxTestConsoleApp.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\obj\Debug\MoraxTestConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\obj\Debug\MoraxTestConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\obj\Debug\MoraxTestConsoleApp.exe
+C:\Users\denis\source\repos\MoraxTestConsoleApp\MoraxTestConsoleApp\obj\Debug\MoraxTestConsoleApp.pdb
